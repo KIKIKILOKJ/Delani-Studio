@@ -34,7 +34,8 @@
 .wat{
   text-align: center;
   font-style: italic;
-  font-weight: bold;
+  font-weight: bolder;
+  padding-bottom: 5%;
 }
 
 h6{
