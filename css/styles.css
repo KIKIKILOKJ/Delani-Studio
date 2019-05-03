@@ -26,3 +26,22 @@
   color: white;
   padding-top: 5%;
 }
+
+.pot {
+  text-align: center;
+}
+
+.wat{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h6{
+  font-weight: bold;
+  font-size: 150%
+}
+
+.lolo{
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+}
