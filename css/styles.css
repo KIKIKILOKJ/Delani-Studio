@@ -45,4 +45,21 @@ h6{
 
 .lolo{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+  padding: 10%;
+
+}
+.lolo input{
+  background: transparent;
+}
+
+.apt{
+  padding-bottom: 10%;
+  padding-right: 25%;
+}
+::placeholder{
+  color: white;
+}
+
+.heri{
+  text-align: center;
 }
