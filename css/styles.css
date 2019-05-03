@@ -4,8 +4,15 @@
   padding-left: 2%;
   padding: 200px;
   padding-bottom: 22%;
+  color: white;
 }
 
 .pic{
   margin-bottom: -20%;
+}
+
+.us{
+  text-align: center;
+  font-weight: normal;
+  font-family: sans-serif;
 }
