@@ -71,12 +71,18 @@ h6{
 
 #up{
   display: none;
+  text-align: center;
+  font-weight: bold;
 }
 
 #down{
   display: none;
+  text-align: center;
+  font-weight: bold;
 }
 
 #left{
   display: none;
+  text-align: center;
+  font-weight: bold;
 }
