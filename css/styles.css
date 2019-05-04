@@ -68,3 +68,7 @@ h6{
 .below {
   text-align: center;
 }
+
+#up{
+  display: none;
+}
