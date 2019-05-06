@@ -1,7 +1,7 @@
 # Delani-Studio
 
 ## Authors
--[PeterKinyanjui].()
+-[PeterKinyanjui].(https://kikikilokj.github.io/Delani-Studio/)
 
 ## Project Description
 -This is a project that prmpts the student to use all the knowledge he or she ha aquired on the use of JavaScript, Bootstrap, CSS file and various tags on the html.
