@@ -18,6 +18,6 @@ $(document).ready(function(){
 
   $(document).ready(function(){
     $(".lolo").click(function(){
-      alert("Hello!! We have received your message.Thank you for reaching out to us");
+      alert("Hello!!Thank you for submitting your message. We have received your message.Thank you for reaching out to us");
     })
   })
